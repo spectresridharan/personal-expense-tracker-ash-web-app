@@ -1,10 +1,3 @@
-OzJUmcWHW36dMbx6
-
-OzJUmcWHW36dMbx6
-
-17/12/2025
-website-bucket-ddc33120-db0d 
-
 name: Deploy Expense Tracker to EC2
 
 on:
@@ -61,4 +54,4 @@ jobs:
             sudo systemctl reload nginx
             
             echo "✅ Frontend built and Nginx reloaded."
-            echo "🚀 Deployment Successfully Completed!"
+            echo "🚀 Deployment Successfully Completed!"  
